@@ -1,0 +1,118 @@
+body 
+{
+    direction:rtl;
+}
+#mydiv{
+    width: 1361px;
+   
+}
+#container {
+    
+    margin:0 auto;
+    background-image: url('../jScripts/image/OMJNTE0.jpg');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 115%;
+    background-attachment: scroll;
+    
+}
+body {
+   
+  
+}
+h1{
+    font-family:Calibri;
+    font-size:22PX;
+   
+     
+    
+}
+header{
+    color:black;
+    margin-right:10px;
+    margin-left:900px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+h4{
+    background-color:lightpink;
+    height:5px;
+    margin-right:10px;
+    margin-left:900px;
+    text-align: right;
+}
+h2{
+    font-family:Calibri;
+    font-size:20PX;
+    text-align:right;
+ margin-top:10px;
+    margin-left:700px;
+    text-decoration: underline;
+     margin-right:20px;
+     color:white;
+}
+p{
+font-family:Calibri;
+    font-size:18PX;
+    margin-left:900px;
+    margin-top:5px;
+    margin-bottom:10px;
+    text-align:right;
+    line-height:20px;
+     margin-right:20px;
+
+}
+ul{
+margin-top:5px;
+margin-bottom: 10px;
+line-height:15px;
+font-family:Calibri;
+font-size:18PX;
+ margin-right:20px;
+}
+li{
+margin-top:5px;
+margin-bottom:5px;
+font-family:Calibri;
+font-size:18PX;
+ margin-right:50px;
+}
+
+h3{
+    font-weight: bold;
+}
+p1{
+font-family:Calibri;
+    font-size:22PX;
+    color:black;
+    margin-right:20px;
+    margin-left:700px;
+    text-align: center;
+    font-weight: bold;
+   
+}
+p2{
+  margin-right:80px;  
+}
+ a:hover
+{
+color:palevioletred;
+font-size:30px;
+}
+ #img1:hover{
+background-color:cornflowerblue;
+    
+ }
+ #img2:hover{
+background-color:green;
+    
+ }
+ #img3:hover{
+background-color:darkred;
+    
+ }
+
+
