@@ -1,0 +1,280 @@
+body {
+    direction: rtl;
+    font-family: 'Assistant', sans-serif;
+    color: white;
+    font-size: 22px;
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #2C5871;
+    color: white;
+}
+
+nav {
+   
+    padding-bottom: 0px;
+    padding-top:20px;
+}
+
+li {
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+nav ul li a {
+    font-size: 25px;
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    text-align:center;
+    width: 220px;
+   
+    color: white;
+    background-color: #F39225;
+    text-align: center;
+    text-decoration: none;
+}
+
+    nav ul li a:hover {
+        background-color: white;
+        color: #F39225;
+    }
+
+
+
+
+.pic {
+    background-image: url('imag/BACK.png');
+    padding-top: 300px;
+    height: 600PX;
+    background-size: 1000PX;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    font-size: 60px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+    padding-top:50px;
+}
+
+.first {
+    font-size: 30px;
+    line-height: 60px;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-bottom: 100px;
+}
+
+.kesher {
+    padding-right: 80px;
+    padding-left: 80px;
+  line-height: 30px;
+}
+
+
+.mail {
+   
+   
+    width: 95px;
+    display:inline;
+    
+}
+
+    .mail:hover {
+        width: 95px;
+        background-image: url('imag/mail02-01.png');
+        background-repeat: no-repeat;
+        background-size: 95px;
+    }
+
+.face {
+    
+    width: 80px;
+     display:inline;
+     padding:10px;
+}
+
+
+    .face:hover {
+        width: 80px;
+        padding-left: 1px;
+        padding-top: 1px;
+        background-image: url('imag/face2.png');
+        background-repeat: no-repeat;
+        background-size: 80px;
+    }
+
+  
+
+  .stay{
+      background-color: white;
+        color: #F39225;
+
+  }
+  .yeda{
+      padding-top:10px;
+      padding-right:50px;
+      padding-left:30px;
+      padding-bottom:10px;
+      line-height:40px;
+  }
+  .shaked{
+      height:500px;
+      padding-right:0px;
+      display:block;
+      padding-top:50px;
+       -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+
+  }
+   .shaked:hover{
+ height:600px;
+   }
+  .shaked1{
+padding-right:60px;
+font-size:18px;
+padding-bottom:30px;
+
+  }
+ .tik a{
+     padding-top:20px;
+padding-right:60px;
+color:white;
+text-decoration: none;
+font-size:18px;
+ }
+ .tik a:hover{
+         color:#F39225;
+ 
+ }
+ .audio{
+padding-top:20px;
+padding-right:50px;
+padding-bottom:20px;
+ }
+ .nave{
+     display:inline;
+    
+
+  
+
+ }
+ .nave a{
+      
+     font-weight:bold;
+  display:inline-block;   
+ color:white;
+text-decoration: none;
+font-size:22px;
+
+ }
+  .nave a:hover{
+     
+ color:#F39225;
+text-decoration: none;
+font-size:22px;
+display:inline-block;
+ }
+  section{
+ padding-top:10px;
+      padding-right:60px;
+      padding-left:60px;
+      padding-bottom:10px;
+      line-height:40px;
+  }
+  .sofi{
+     
+ height:315px;
+ padding-right:30px;
+ display:inline-block;
+ 
+  }
+ 
+ 
+
+  .tozar{
+      display:inline-block;
+      font-size:16px;
+      padding-right:30px;
+  }
+  iframe{
+      display:inline-block;
+      padding-left:10px;
+  }
+  p{
+ padding-right:30px;
+ 
+  }
+  
+ 
+  
+  h2{
+      padding-top:20px;
+      padding-right:50px;
+      font-size:30px;
+  }
+  .c{
+      height:100px;
+      padding-right:50px;
+       -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+  }
+  .c:hover{
+      height:200px;
+      padding-right:50px;
+  }
+  #logo{
+      display:inline-block;
+      padding:20px;
+      line-height:50px;
+  }
+  .old{
+ height:100px;
+ padding-right:30px;
+
+  }
+  .logo{
+      padding-right:77px;
+     word-spacing:200px;
+  }
+  .de{
+      height:500px;
+      padding-right:50px;
+      
+      padding-top:20PX;
+         -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+  }
+   .de:hover{
+      height:700px;
+      padding-right:50px;
+      
+      padding-top:20PX;
+  }
+   .big{
+       font-size:16px;
+       padding-right:50px;
+       padding-bottom:100px;
+   }
+  
+  
+ 
+ 
+
