@@ -58,19 +58,22 @@ nav ul li a {
 }
 
 h1 {
-    font-size: 60px;
-    padding-left: 90px;
-    padding-right: 90px;
+    font-family: 'Secular One', sans-serif;
+    font-size: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-bottom: 20px;
-    padding-top:50px;
+    padding-top:0px;
+    color:#F39225;
 }
 
 .first {
-    font-size: 30px;
-    line-height: 60px;
-    padding-left: 140px;
-    padding-right: 140px;
+    font-size: 20px;
+    line-height: 25px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-bottom: 100px;
+   
 }
 
 .kesher {
@@ -130,7 +133,7 @@ h1 {
       height:500px;
       padding-right:0px;
       display:block;
-      padding-top:50px;
+      padding-top:10px;
        -webkit-transition: all 1s ease-out;
     -moz-transition: all 1s ease-out;
     -ms-transition: all 1s ease-out;
@@ -142,17 +145,20 @@ h1 {
  height:600px;
    }
   .shaked1{
-padding-right:60px;
+padding-right:50px;
 font-size:18px;
-padding-bottom:30px;
+padding-bottom:20px;
 
   }
+  .tik{
+      padding-top:20px;
+  }
  .tik a{
-     padding-top:20px;
-padding-right:60px;
+ margin-top:80px;
+padding-right:0px;
 color:white;
 text-decoration: none;
-font-size:18px;
+font-size:16px;
  }
  .tik a:hover{
          color:#F39225;
@@ -187,11 +193,12 @@ font-size:22px;
 display:inline-block;
  }
   section{
- padding-top:10px;
-      padding-right:60px;
-      padding-left:60px;
+      padding-top:10px;
+      padding-right:80px;
+      padding-left:80px;
       padding-bottom:10px;
-      line-height:40px;
+      line-height:20px;
+      font-size:18px;
   }
   .sofi{
      
@@ -220,9 +227,12 @@ display:inline-block;
  
   
   h2{
-      padding-top:20px;
-      padding-right:50px;
-      font-size:30px;
+      font-family: 'Secular One', sans-serif;
+    font-size: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 0px;
+    padding-top:70px;
   }
   .c{
       height:100px;
